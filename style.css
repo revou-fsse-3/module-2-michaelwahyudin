@@ -396,6 +396,11 @@ input[type="password"] {
     .topnav a {
       display: none;
     }
+
+    .topnav .show a {
+      display: block;
+    }
+
   }
 
   @media screen and (max-width: 600px) {

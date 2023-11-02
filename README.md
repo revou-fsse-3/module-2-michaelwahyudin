@@ -15,3 +15,28 @@ _This is me_, visit my [Linkedin](https://www.linkedin.com/in/michael-wahyudin-9
 5. Creating one Asymmetrical Grid (bottom left night mode and red)
 6. Create one advance foem element (range picker)+(add condition where passw have to be 8 character long before login)
 7. create 2 simple animation (animation i use on top nav and h1 text) (transition in id pass and textbox when mouse hover it)
+
+## Module-2 Assignment Checklist
+
+- [ ] Responsive Image
+
+  - [ ] implement contain or cover
+  - [ ] implement image srcset
+
+- [ ] Responsive asymmetrical layout
+- [ ] Implement date input
+- [ ] Font customization
+
+  - [ ] using @font-face
+  - [ ] using text-shadow
+  - [ ] using list-style
+
+- [ ] Responsive animation and transition
+
+  - [ ] using @keyframes
+  - [ ] using transition
+  - [ ] responsive
+
+- [ ] Documenting deployment
+- [ ] Connect Netlify to Github
+- [ ] Using custom domain

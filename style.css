@@ -188,6 +188,7 @@ button.btn {
   border-radius: 10px;
   text-align: center;
   display: flex;
+  z-index: 1;
 }
 
 /* Checkbox and radio button styles */
@@ -370,6 +371,7 @@ input[type="password"] {
 @media screen and (max-width: 600px) {
   .hamburger-menu {
     display: block;
+    z-index: 2;
   }
 
   .hamburger-content {

@@ -1,6 +1,8 @@
 # Hello i am Michael
 
-This is my [project](https://michaelpixiv.netlify.app/) website for my RevoU class
+This is my [own website](https://mypixiv.online/) website for my RevoU class
+
+and this is my [netlify project](https://michaelpixiv.netlify.app/) website for my RevoU class
 
 _This is me_, visit my [Linkedin](https://www.linkedin.com/in/michael-wahyudin-922396229/?trk=people_directory&originalSubdomain=id) account ![profesional Picture][def]
 

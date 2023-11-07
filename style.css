@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "CustomFont"; /* You can give your font a name */
+  src: url("./asset/Agbalumo-Regular.ttf") format("truetype");
+  font-weight: normal; /* Adjust the font-weight as needed */
+  font-style: normal; /* Adjust the font-style as needed */
+}
+
 /* Reset default margin and padding on the body */
 body {
   margin: 0;
@@ -69,12 +76,7 @@ body {
   font-size: 17px;
 }
 
-@font-face {
-  font-family: "CustomFont"; /* You can give your font a name */
-  src: url("./asset/Agbalumo-Regular.ttf") format("truetype");
-  font-weight: normal; /* Adjust the font-weight as needed */
-  font-style: normal; /* Adjust the font-style as needed */
-}
+
 
 h1 {
   margin: 0 auto;
@@ -246,6 +248,15 @@ input[type="password"] {
   border-radius: 5px; /* Rounded corners for the cells */
 }
 
+.img-with-padding {
+  padding: 10px; /* Adjust the amount of padding as needed */
+  max-width: 10vh;
+}
+
+.nightlogo {
+  display: none;
+}
+
 /* Style for night mode */
 .night-mode {
   background-color: #000; /* Change this to your preferred background color */
@@ -255,6 +266,16 @@ input[type="password"] {
     color: #ff0000; /* Change link text color in night mode */
     font-weight: bolder;
   }
+}
+
+.night-mode .img-with-padding {
+  display: none
+}
+
+.night-mode .nightlogo {
+  display: block;
+  padding: 10px;
+  max-width: 30vh;
 }
 
 .night-mode .contained-cell {

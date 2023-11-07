@@ -8,7 +8,11 @@ _This is me_, visit my [Linkedin](https://www.linkedin.com/in/michael-wahyudin-9
 
 **This is my Checklist as Requested** !
 
-i am deploying my website(v02) to netlify and will connect it to niagahoster
+- [x] Deploying my website(v02) to netlify change name to less random and connect it to niagahoster
+- [x] Put the site name which is mypixiv.online to netlify
+- [x] Changed dns to dns1.p03.nsone.net -4 on niagahoster
+- [x] DNS verification was successful
+- [x] http://mypixiv.online/ is online
 
 ## Module-2 Assignment Checklist
 

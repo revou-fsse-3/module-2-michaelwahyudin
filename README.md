@@ -8,14 +8,6 @@ _This is me_, visit my [Linkedin](https://www.linkedin.com/in/michael-wahyudin-9
 
 [def]: https://media.licdn.com/dms/image/C4E03AQEqHcvQ5UQ73Q/profile-displayphoto-shrink_800_800/0/1640710136892?e=1703116800&v=beta&t=ma8T5rqPhrpxIjyQFAqs_Ak5oflwQRYD9uNsmdBCVF0
 
-**This is my Checklist as Requested** !
-
-- [x] Deploying my website(v02) to netlify change name to less random and connect it to niagahoster
-- [x] Put the site name which is mypixiv.online to netlify
-- [x] Changed dns to dns1.p03.nsone.net -4 on niagahoster
-- [x] DNS verification was successful
-- [x] http://mypixiv.online/ is online
-
 ## Module-2 Assignment Checklist
 
 - [ ] Responsive Image
@@ -40,3 +32,18 @@ _This is me_, visit my [Linkedin](https://www.linkedin.com/in/michael-wahyudin-9
 - [ ] Documenting deployment
 - [ ] Connect Netlify to Github
 - [ ] Using custom domain
+
+## Deployment Process
+
+1.  create netlify account
+2.  create git repo(already done by revou) so i just pull and push my work
+3.  on netlify add new site and choose deploy with github
+4.  choose my repo (revou class 2) and click deploy
+5.  buy domain from niagahoster (i choose .online)
+6.  now i have domain from niagahoster and i need to link it into netlify
+7.  Go to my Domain page and select Add or register domain.
+    Enter the domain and select Verify.
+    confirm that I am the owner of the domain. Select Yes, add domain to create a Netlify DNS zone for the domain.
+8.  Changed dns to dns1.p03.nsone.net -4 on niagahoster <img title="a title" alt="Alt text" src="/asset/md1.png">
+9.  DNS verification was successful <img title="a title" alt="Alt text" src="/asset/md2.png"><img title="a title" alt="Alt text" src="/asset/md3.png">
+10. http://mypixiv.online/ is online

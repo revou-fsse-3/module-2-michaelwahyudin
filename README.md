@@ -42,8 +42,8 @@ _This is me_, visit my [Linkedin](https://www.linkedin.com/in/michael-wahyudin-9
 5.  buy domain from niagahoster (i choose .online)
 6.  now i have domain from niagahoster and i need to link it into netlify
 7.  Go to my Domain page and select Add or register domain.
-    Enter the domain and select Verify.
-    confirm that I am the owner of the domain. Select Yes, add domain to create a Netlify DNS zone for the domain.
-8.  Changed dns to dns1.p03.nsone.net -4 on niagahoster <img title="a title" alt="Alt text" src="/asset/md1.png">
-9.  DNS verification was successful <img title="a title" alt="Alt text" src="/asset/md2.png"><img title="a title" alt="Alt text" src="/asset/md3.png">
-10. http://mypixiv.online/ is online
+8.    Enter the domain and select Verify.
+9.    confirm that I am the owner of the domain. Select Yes, add    domain to create a Netlify DNS zone for the domain.
+10.  Changed dns to dns1.p03.nsone.net -4 on niagahoster <img title="a title" alt="Alt text" src="/asset/md1.png">
+11.  DNS verification was successful <img title="a title" alt="Alt text" src="/asset/md2.png"><img title="a title" alt="Alt text" src="/asset/md3.png">
+12. http://mypixiv.online/ is online

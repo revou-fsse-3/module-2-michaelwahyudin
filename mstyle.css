@@ -482,7 +482,7 @@ background-color: #000; /* Change this to your preferred background color */
   }
 
   /* Responsive layout - makes a two column-layout instead of four columns */
-  @media (max-width: 800px) {
+  @media (max-width: 850px) {
     .column {
       flex: 50%;
       max-width: 50%;
